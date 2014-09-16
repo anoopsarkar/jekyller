@@ -111,6 +111,13 @@ It’s good to have information organized.
 ![](pictures/picture.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
+## Inline Pictures
+
+![](pictures/picture.jpg)
+* followed by a list
+* of items
+* that explain the figure
+
 ## **You can even shout this way**
 
 ## Inner Navigation
