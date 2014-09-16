@@ -10,11 +10,8 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
-    # url:  http://example.com/
-    company:
-        name: Famous Inc.
-        # url:  http://example.com/
+    name: Anoop Sarkar
+    url:  http://anoopsarkar.github.io/nlp-class/
 
 fork_url: https://github.com/shower/shower
 progress: true
