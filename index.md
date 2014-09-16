@@ -113,7 +113,7 @@ It’s good to have information organized.
 
 ## Inline Pictures
 
-![](pictures/picture.jpg)
+![](pictures/smallpicture.jpg)
 * followed by a list
 * of items
 * that explain the figure
